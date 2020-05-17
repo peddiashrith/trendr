@@ -25,7 +25,7 @@ SECRET_KEY = '+%114%eiw%6egic$w9u48m=$9chuee94p+f(y_qm8dgn*xhca)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.196.8.42', '127.0.0.1',
+ALLOWED_HOSTS = ['10.196.8.42', '127.0.0.1', 'mytrendrapp.herokuapp.com',
                 'localhost']
 
 
