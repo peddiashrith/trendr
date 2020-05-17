@@ -17,6 +17,9 @@ Social network with internal messaging system, message aggregations and trend an
 - python
 - Django(python framework)
 - Crispy Forms(django package)
+- image(pip install image)
+- psycopyg2(pip install psycopg2)
+- django-cleanup(pip install django-cleanup)
 
 ### To run:
 - Download and extract the repositary
