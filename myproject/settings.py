@@ -25,7 +25,7 @@ SECRET_KEY = '+%114%eiw%6egic$w9u48m=$9chuee94p+f(y_qm8dgn*xhca)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.196.8.42',
+ALLOWED_HOSTS = ['10.196.8.42', '127.0.0.1',
                 'localhost']
 
 
@@ -82,8 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'twitter',
-        'USER': 'mgj',
-        'PASSWORD': 'qwerty',
+        'USER': 'postgres',
+        'PASSWORD': 'peddi',
         'HOST': 'localhost',
         'PORT': '',
     }
