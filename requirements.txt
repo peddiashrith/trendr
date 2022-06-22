@@ -22,7 +22,7 @@ image==1.5.31
 kiwisolver==1.2.0
 matplotlib==3.2.1
 more-itertools==8.2.0
-numpy==1.18.4
+numpy==1.22.0
 packaging==20.3
 pandas==1.0.3
 Pillow==7.1.2
